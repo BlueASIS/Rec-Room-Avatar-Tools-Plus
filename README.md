@@ -1,4 +1,4 @@
-### [Download!](https://github.com/BlueASIS/Rec-Room-Avatar-Tools-Plus/releases/download/releases/RR_AvatarTools_Plus.py)
+### [Download!](https://github.com/BlueASIS/Rec-Room-Avatar-Tools-Plus/releases/download/0.0.3/RecRoom_Avatar_Tools_Plus.zip)
 
 ## Rec Room Avatar Tools+
 
@@ -10,12 +10,18 @@ Edit > Preferences > Install > Install RR_AvatarTools_Plus.py > Enable it by cli
 It will appear in the sidebar of the Rec Room Avatar Tools tab
 you can move the tab up or down with the dots in the top right
 
-<img width="410" height="340" alt="blender_o0UWKv70ja" src="https://github.com/user-attachments/assets/8979f8d5-95d0-463d-86cb-b4e6dbd21294" />
+## LOD Tools:
+You can right click an object in the hierarchy/outliner and click "Generate LOD1 & LOD2" or use this button
+<img width="404" height="83" alt="image" src="https://github.com/user-attachments/assets/dbd58d06-f788-4be1-8896-0f5de39d77ea" />
 
-You can also just right click an object in the hierarchy/outliner and click "Generate LOD1 & LOD2"
+## Quick Weights:
+Some handy features for fast tracking item creation!
+-Clear Weights will clear all weights
+-Toggle Tweakable will toggle between the .tweak and normal variant of any available bones
 
-<img width="241" height="587" alt="blender_pf8Ls4jsWV" src="https://github.com/user-attachments/assets/20991067-e38d-4b93-97d0-9ae74ca150ef" />
+Hat Back & Nose buttons will weight an item fully to those bones, great for quickly making hats, swords and clown noses respectfully.
+<img width="406" height="147" alt="image" src="https://github.com/user-attachments/assets/3d2ffb03-023c-4637-a823-2f64a6aa8f17" />
 
-### [Download!](https://github.com/BlueASIS/Rec-Room-Avatar-Tools-Plus/releases/download/releases/RR_AvatarTools_Plus.py)
+### [Download!](https://github.com/BlueASIS/Rec-Room-Avatar-Tools-Plus/releases/download/0.0.3/RecRoom_Avatar_Tools_Plus.zip)
 
 
