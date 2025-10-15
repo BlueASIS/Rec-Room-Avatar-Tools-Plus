@@ -16,12 +16,15 @@ You can right click an object in the hierarchy/outliner and click "Generate LOD1
 
 ## Quick Weights:
 Some handy features for fast tracking item creation!
--Clear Weights will clear all weights
--Toggle Tweakable will toggle between the .tweak and normal variant of any available bones
+- Clear Weights will clear all weights
+- Toggle Tweakable will toggle between the .tweak and normal variant of any available bones
 
 Hat Back & Nose buttons will weight an item fully to those bones, great for quickly making hats, swords and clown noses respectfully.
 
-<img width="406" height="147" alt="image" src="https://github.com/user-attachments/assets/3d2ffb03-023c-4637-a823-2f64a6aa8f17" />
+Example gif; 
+
+![blender_1AzzQHF3VP](https://github.com/user-attachments/assets/a4370ac7-6bae-4975-914f-aebe11601175)
+
 
 ### [Download!](https://github.com/BlueASIS/Rec-Room-Avatar-Tools-Plus/releases/download/0.0.3/RecRoom_Avatar_Tools_Plus.zip)
 
