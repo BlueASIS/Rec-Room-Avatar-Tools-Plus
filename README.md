@@ -20,6 +20,7 @@ Some handy features for fast tracking item creation!
 -Toggle Tweakable will toggle between the .tweak and normal variant of any available bones
 
 Hat Back & Nose buttons will weight an item fully to those bones, great for quickly making hats, swords and clown noses respectfully.
+
 <img width="406" height="147" alt="image" src="https://github.com/user-attachments/assets/3d2ffb03-023c-4637-a823-2f64a6aa8f17" />
 
 ### [Download!](https://github.com/BlueASIS/Rec-Room-Avatar-Tools-Plus/releases/download/0.0.3/RecRoom_Avatar_Tools_Plus.zip)
