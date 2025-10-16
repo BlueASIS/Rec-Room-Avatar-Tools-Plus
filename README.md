@@ -5,7 +5,7 @@
 QoL features for Rec Rooms Avatar Tools in blender!
 
 Download the script, and install it to blender like any other addon by going to:
-Edit > Preferences > Install > Install RR_AvatarTools_Plus.py > Enable it by clicking the checkbox!
+Edit > Preferences > Install > Locate the .zip > Enable it by clicking the checkbox!
 
 It will appear in the sidebar of the Rec Room Avatar Tools tab
 you can move the tab up or down with the dots in the top right
