@@ -1,4 +1,4 @@
-### [Download!](https://github.com/BlueASIS/Rec-Room-Avatar-Tools-Plus/releases/download/0.0.3/RecRoom_Avatar_Tools_Plus.zip)
+### [Download!](https://github.com/BlueASIS/Rec-Room-Avatar-Tools-Plus/releases/download/0.0.4/RecRoom_Avatar_Tools_Plus.zip)
 
 ## Rec Room Avatar Tools+
 
