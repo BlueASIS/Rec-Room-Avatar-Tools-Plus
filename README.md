@@ -1,4 +1,4 @@
-# [Download!](https://github.com/BlueASIS/Rec-Room-Avatar-Tools-Plus/releases/download/0.0.4/RecRoom_Avatar_Tools_Plus.zip)
+# [Download!](https://github.com/BlueASIS/Rec-Room-Avatar-Tools-Plus/releases/download/0.0.5/RecRoom_Avatar_Tools_Plus.zip)
 
 ## Rec Room Avatar Tools+
 
@@ -26,6 +26,6 @@ Example gif;
 ![blender_1AzzQHF3VP](https://github.com/user-attachments/assets/a4370ac7-6bae-4975-914f-aebe11601175)
 
 
-# [Download!](https://github.com/BlueASIS/Rec-Room-Avatar-Tools-Plus/releases/download/0.0.4/RecRoom_Avatar_Tools_Plus.zip)
+# [Download!](https://github.com/BlueASIS/Rec-Room-Avatar-Tools-Plus/releases/download/0.0.5/RecRoom_Avatar_Tools_Plus.zip)
 
 
