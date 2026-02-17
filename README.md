@@ -17,6 +17,7 @@ You can right click an object in the hierarchy/outliner and click "Generate LOD1
 ## Quick Weights:
 Some handy features for fast tracking item creation!
 - Clear Weights will clear all weights
+- Transfer Weights, lets you transfer weights quickly from one object to another
 - Toggle Tweakable will toggle between the .tweak and normal variant of any available bones
 
 Hat Back & Nose buttons will weight an item fully to those bones, great for quickly making hats, swords and clown noses respectfully.
